@@ -1,0 +1,25 @@
+{
+  "name": "bloodapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": ".mongorc.js",
+  "dependencies": {
+    "mongoose": "^5.9.28",
+    "nodemon": "^2.0.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "nodemon hello.js"
+     
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://geniusbg:QwEr9001@github.com/geniusbg/blood.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/geniusbg/blood/issues"
+  },
+  "homepage": "https://github.com/geniusbg/blood#readme"
+}
