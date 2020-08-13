@@ -7,7 +7,7 @@ http.createServer(function (req, res) {
 }).listen(5080); //the server object listens on port 8080
 
 const mongoose = require('mongoose');
-mongoose.connect('mongodb://blood:bl00d@localhost:27017/blood', {useNewUrlParser: true, useUnifiedTopology: true});
+mongoose.connect('mongodb://blood:bl00d@77.78.36.178:27017/blood', {useNewUrlParser: true, useUnifiedTopology: true});
 
 const User = mongoose.model('User', { name: String, birthday: Number, bloodGroup: String });
 

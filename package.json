@@ -4,17 +4,17 @@
   "description": "",
   "main": ".mongorc.js",
   "dependencies": {
+    "express": "^4.17.1",
     "mongoose": "^5.9.28",
     "nodemon": "^2.0.4"
   },
   "devDependencies": {},
   "scripts": {
     "start": "nodemon hello.js"
-     
   },
   "repository": {
     "type": "git",
-    "url": "git+https://geniusbg:QwEr9001@github.com/geniusbg/blood.git"
+    "url": "git+https://github.com/geniusbg/blood.git"
   },
   "author": "",
   "license": "ISC",
