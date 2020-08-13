@@ -1,0 +1,75 @@
+q
+quit
+db.enableFreeMonitoring()
+help
+;
+help
+show dbs
+show users
+db.help()
+use admin
+use
+db.logout
+show dbs
+show dbs test
+help
+use test
+list
+db.inventory.find( {} )
+db.inventory.find()
+db.inventory.find
+myCursor = db.inventory.find( {} )
+myCursor
+use test
+myCursor
+myCursor = db.inventory.find( {} )
+help
+it
+show profile
+db.getProfilingLevel()
+help admin
+admin ls
+ls
+pwd
+admin pwd
+admin
+pwd()
+ls()
+help admin
+listFiles()
+help
+sh.help()
+sh.status()
+list
+help
+show collections
+show dbs
+use test
+show collections
+use cats
+show collections
+show db
+show dbs
+db.cats.find()
+db.stats
+db.stats()
+db.cats.find().pretty()
+use catss
+use cats
+db.cats.find().pretty()
+use test
+db.cats.find().pretty()
+db.cats.find()
+use blood
+show dbd
+show dbs
+db.users.insert({"name" : "Admin"})
+show dbs
+db.adminCommand()
+db.createRole()
+help db.createRole()
+help db
+help
+db.help()
+;
+use blood

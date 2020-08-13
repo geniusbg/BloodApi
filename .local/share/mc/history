@@ -1,0 +1,19 @@
+[cmdline]
+0=44
+1=
+
+[Dir Hist New Right Panel]
+0=/var/lib/mongo
+1=/home/blood
+
+[Dir Hist New Left Panel]
+0=/home/blood/.local
+1=/home/blood/.mozilla
+2=/var/lib/mongo
+3=/home/blood/.config/pulse
+4=/home/blood/.config/mc
+5=/home/blood/.config
+6=/home/blood
+7=/home/blood/node_modules/mongoose
+8=/home/blood/node_modules
+9=/home/blood/node_modules/mongodb
